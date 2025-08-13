@@ -709,4 +709,5 @@
 		<Attribute Name="http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:uri" FriendlyName="E-Mail Address" xmlns="urn:oasis:names:tc:SAML:2.0:assertion"/>
 	</IDPSSODescriptor>
 	<ContactPerson contactType="support"/>
+
 </EntityDescriptor>
